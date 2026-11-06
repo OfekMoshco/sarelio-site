@@ -1,0 +1,343 @@
+# Sarelio: Photo & Storage Cleaner
+
+> Sarelio is an iPhone app for cleaning the photo library: swipe right to trash, left to keep. It finds similar and duplicate photos, screenshots, blurry and dark shots, receipts, documents and the biggest videos. No ads. Nothing is uploaded to the cloud: all analysis runs on the iPhone. Nothing is deleted until the user reviews and confirms it.
+
+Key facts:
+- Platform: iOS (iPhone), on the App Store. Search "Sarelio: Photo & Storage Cleaner" (localized store names below).
+- Developer/publisher: Sarelio (independent app studio). Legal operator details are in the privacy policy and terms of use.
+- Privacy: on-device processing with iOS system frameworks; no Sarelio account; no advertising, analytics or tracking SDKs; no IDFA.
+- Safety: right swipe only marks a photo; a review screen and the iOS prompt come before deletion; multi-step Undo; deleted photos stay in iOS Recently Deleted for 30 days.
+- Swipe direction is the same in every language (right = trash, left = keep), including Hebrew and Arabic.
+- App languages: English, Hebrew, Spanish, French, German, Portuguese (Brazil), Russian, Arabic. This website is available in the same 8 languages.
+- Prices: shown in the App Store before purchase; see the terms of use page.
+- Contact: support@sarelio.app
+
+## Pages by language
+- English (en), store name "Sarelio: Photo & Storage Cleaner": [home](https://sarelio.app/), [features](https://sarelio.app/features/), [FAQ](https://sarelio.app/support/), [privacy](https://sarelio.app/privacy/), [terms](https://sarelio.app/terms/)
+- עברית (he), store name "Sarelio: ניקוי תמונות ואחסון": [home](https://sarelio.app/he/), [features](https://sarelio.app/he/features/), [FAQ](https://sarelio.app/he/support/), [privacy](https://sarelio.app/he/privacy/), [terms](https://sarelio.app/he/terms/)
+- Español (es), store name "Sarelio: Limpiar Fotos y Espacio": [home](https://sarelio.app/es/), [features](https://sarelio.app/es/features/), [FAQ](https://sarelio.app/es/support/), [privacy](https://sarelio.app/es/privacy/), [terms](https://sarelio.app/es/terms/)
+- Français (fr), store name "Sarelio: Nettoyer Photos+Espace": [home](https://sarelio.app/fr/), [features](https://sarelio.app/fr/features/), [FAQ](https://sarelio.app/fr/support/), [privacy](https://sarelio.app/fr/privacy/), [terms](https://sarelio.app/fr/terms/)
+- Deutsch (de), store name "Sarelio: Fotos & Speicher leeren": [home](https://sarelio.app/de/), [features](https://sarelio.app/de/features/), [FAQ](https://sarelio.app/de/support/), [privacy](https://sarelio.app/de/privacy/), [terms](https://sarelio.app/de/terms/)
+- Português (Brasil) (pt-BR), store name "Sarelio: Limpar Fotos e Espaço": [home](https://sarelio.app/pt/), [features](https://sarelio.app/pt/features/), [FAQ](https://sarelio.app/pt/support/), [privacy](https://sarelio.app/pt/privacy/), [terms](https://sarelio.app/pt/terms/)
+- Русский (ru), store name "Sarelio: очистка фото и памяти": [home](https://sarelio.app/ru/), [features](https://sarelio.app/ru/features/), [FAQ](https://sarelio.app/ru/support/), [privacy](https://sarelio.app/ru/privacy/), [terms](https://sarelio.app/ru/terms/)
+- العربية (ar), store name "Sarelio: منظف الصور والتخزين": [home](https://sarelio.app/ar/), [features](https://sarelio.app/ar/features/), [FAQ](https://sarelio.app/ar/support/), [privacy](https://sarelio.app/ar/privacy/), [terms](https://sarelio.app/ar/terms/)
+
+## Features
+- Storage full? Breathe.: See where your space goes. The Storage tab splits your iPhone by file type and album, and Home shows how much each cleanup can free before you start.
+- Swipe right to trash, left to keep: The same in every language, never mirrored. Swipe up to share, down to hide in the iOS Hidden album, double-tap to favorite. Buttons do the same if you prefer tapping.
+- Similar and duplicate photos, side by side: On-device Vision groups near-identical shots and bursts. Versus Mode puts them next to each other so you keep the best one.
+- Screenshot cleanup: Every screenshot in one place. Sarelio flags the ones with text, like codes and receipts, and can save them as PDF or text before you clear them.
+- Biggest videos first: Every video sorted by size, largest first. Preview, then delete, keep, or compress. Compress saves a smaller copy before the original goes to review.
+- Undo, then review, then delete: Multi-step Undo walks back your last decisions. Everything you trashed waits on one review screen, and deleted photos stay in Recently Deleted for 30 days.
+- Finders for the rest of the clutter: Blurry and too-dark photos, receipts, documents, RAW + JPEG pairs, Live Photos to stills, and folders from the Files app.
+- What's missing: ads, uploads, accounts: No ads. Nothing uploaded to the cloud. No Sarelio account. Analysis runs with iOS system frameworks on your iPhone.
+- Zen Mode: A calm five-minute session with a leaf countdown, then a review prompt.
+- Shake to Clean: Shake the phone and land on a random month from your past.
+- Hands-free voice cleaning: Keep, delete and undo by voice, with on-device speech recognition.
+- Widgets: Free space and your streak on the Home Screen, plus a widget that surfaces your blurriest recent photo.
+- Clean together: Co-op cleaning with SharePlay in a FaceTime call.
+- 8 languages: English, Hebrew, Spanish, French, German, Portuguese (Brazil), Russian and Arabic, with full RTL.
+
+## FAQ: English (en) - https://sarelio.app/support/
+
+### What is the best app to delete duplicate photos on iPhone?
+Look for three things: it finds similar shots, not only exact copies; it lets you compare them before anything is deleted; and it does the analysis on the iPhone. Sarelio: Photo & Storage Cleaner does all three. It groups near-identical photos and bursts with on-device Vision, shows them side by side in Versus Mode so you keep the best one, and deletes nothing until you confirm on a review screen.
+
+### How do I delete duplicate photos on my iPhone?
+iOS 16 and later has a built-in Duplicates album in Photos (Albums, then Utilities) that merges exact copies. For similar shots, bursts and near-duplicates, open Sarelio, go to Find, then Duplicates. Pick the best photo in each group, review, and confirm.
+
+### How do I free up storage on my iPhone without losing photos I care about?
+Start with the biggest wins: large videos, screenshots, duplicates and blurry shots. In Sarelio, swipe right to trash and left to keep, then check everything once on the review screen before it's deleted. You can compress a big video instead of deleting it.
+
+### Is there a photo cleaner app that doesn't upload my photos?
+Yes. Sarelio runs every scan on your iPhone. Nothing is uploaded to the cloud, there is no Sarelio account, and the app has no ad, analytics or tracking SDKs.
+
+### Is there a photo cleaner app without ads?
+Sarelio has no ads anywhere: not on launch, not between swipes.
+
+### Does Sarelio delete photos automatically?
+No. Swiping right only marks a photo. Nothing is deleted until you confirm on the review screen and then in the iOS prompt.
+
+### Can I undo a deletion?
+Yes, twice over. Undo walks back your last swipes in the app. After you confirm, photos move to iOS Recently Deleted, where they stay for 30 days.
+
+### Why didn't my storage go up right after deleting?
+Deleted photos go to Recently Deleted first. The space comes back when you empty that album in Photos or when iOS clears it after 30 days. Sarelio shows a reminder and an Open Photos button.
+
+### Does swipe direction flip in Hebrew or Arabic?
+No. Right is always trash and left is always keep, in every language. Only the text is mirrored.
+
+### Which languages does Sarelio support?
+English, Hebrew, Spanish, French, German, Portuguese (Brazil), Russian and Arabic. It follows your device language.
+
+### Does Sarelio work with iCloud Photos?
+Yes. Photos stored only in iCloud are downloaded by iOS for display, with a cloud badge and a Retry or Skip option when you're offline. Deleting a photo with iCloud Photos on also removes it from your other Apple devices.
+
+### How do I contact support?
+Email support@sarelio.app. A real person reads every message.
+
+## FAQ: עברית (he) - https://sarelio.app/he/support/
+
+### מה האפליקציה הכי טובה למחיקת תמונות כפולות באייפון?
+כדאי לחפש שלושה דברים: שהיא מוצאת גם תמונות דומות ולא רק עותקים זהים; שאפשר להשוות לפני שמשהו נמחק; ושהניתוח נעשה על האייפון. Sarelio: Photo & Storage Cleaner עושה את שלושתם. היא מקבצת תמונות כמעט זהות ורצפי צילום בזיהוי שרץ במכשיר, מציגה אותן זו לצד זו במצב Versus כדי לשמור את הטובה, ולא מוחקת כלום עד שמאשרים במסך הסקירה.
+
+### איך מוחקים תמונות כפולות באייפון?
+מ-iOS 16 יש באפליקציית התמונות אלבום "כפילויות" (אלבומים ← כלים) שממזג עותקים זהים. לתמונות דומות, רצפי צילום וכמעט-כפולות: פותחים את Sarelio, עוברים ל"חיפוש" ואז "כפולות", בוחרים את הטובה בכל קבוצה, סוקרים ומאשרים.
+
+### איך מפנים מקום באייפון בלי לאבד תמונות חשובות?
+מתחילים מהחיסכון הגדול: סרטונים כבדים, צילומי מסך, כפולות ותמונות מטושטשות. ב-Sarelio מחליקים ימינה לפח ושמאלה לשמירה, ובודקים הכול פעם אחת במסך הסקירה לפני המחיקה. אפשר גם לדחוס סרטון גדול במקום למחוק אותו.
+
+### יש אפליקציית ניקוי שלא מעלה את התמונות?
+כן. Sarelio מריצה כל סריקה על האייפון. שום דבר לא עולה לענן, אין חשבון Sarelio, ואין באפליקציה רכיבי פרסום, אנליטיקה או מעקב.
+
+### יש אפליקציית ניקוי תמונות בלי פרסומות?
+ב-Sarelio אין פרסומות בכלל: לא בפתיחה ולא בין החלקות.
+
+### Sarelio מוחקת תמונות לבד?
+לא. החלקה ימינה רק מסמנת. שום דבר לא נמחק עד שמאשרים במסך הסקירה, ואז בחלונית של iOS.
+
+### אפשר לבטל מחיקה?
+כן, בשתי דרכים. כפתור הביטול מחזיר אחורה את ההחלקות האחרונות באפליקציה. אחרי האישור, התמונות עוברות ל"נמחקו לאחרונה" ב-iOS ונשארות שם 30 יום.
+
+### למה המקום לא התפנה מיד אחרי המחיקה?
+תמונות שנמחקו עוברות קודם ל"נמחקו לאחרונה". המקום חוזר כשמרוקנים את האלבום באפליקציית התמונות, או כש-iOS מנקה אותו אחרי 30 יום. Sarelio מציגה תזכורת וכפתור לפתיחת התמונות.
+
+### כיוון ההחלקה מתהפך בעברית?
+לא. ימינה תמיד לפח ושמאלה תמיד לשמירה, בכל שפה. רק הטקסט מתהפך.
+
+### באילו שפות Sarelio זמינה?
+עברית, אנגלית, ספרדית, צרפתית, גרמנית, פורטוגזית (ברזיל), רוסית וערבית, לפי שפת המכשיר.
+
+### Sarelio עובדת עם תמונות iCloud?
+כן. תמונות שנמצאות רק ב-iCloud יורדות דרך iOS לתצוגה, עם סימן ענן ואפשרות לנסות שוב או לדלג כשאין חיבור. מחיקה כש"תמונות iCloud" פעיל מוחקת את התמונה גם במכשירי Apple האחרים.
+
+### איך יוצרים קשר עם התמיכה?
+כותבים ל-support@sarelio.app. כל הודעה נקראת על ידי אדם.
+
+## FAQ: Español (es) - https://sarelio.app/es/support/
+
+### ¿Cuál es la mejor app para borrar fotos duplicadas en iPhone?
+Busca tres cosas: que encuentre fotos similares y no solo copias exactas, que te deje compararlas antes de borrar nada y que haga el análisis en el iPhone. Sarelio: Limpiar Fotos y Espacio cumple las tres. Agrupa fotos casi idénticas y ráfagas con Vision en el dispositivo, las muestra juntas en el modo Versus para que conserves la mejor y no borra nada hasta que confirmas en la pantalla de revisión.
+
+### ¿Cómo elimino fotos duplicadas en mi iPhone?
+Desde iOS 16, la app Fotos tiene un álbum Duplicados (Álbumes, luego Utilidades) que fusiona copias exactas. Para fotos similares, ráfagas y casi duplicadas, abre Sarelio, ve a Buscar y luego a Duplicadas. Elige la mejor foto de cada grupo, revisa y confirma.
+
+### ¿Cómo libero espacio en el iPhone sin perder fotos importantes?
+Empieza por lo que más ocupa: vídeos grandes, capturas, duplicadas y fotos borrosas. En Sarelio desliza a la derecha para la papelera y a la izquierda para conservar, y revisa todo una vez antes de que se borre. También puedes comprimir un vídeo grande en vez de borrarlo.
+
+### ¿Hay alguna app para limpiar fotos que no suba mis fotos?
+Sí. Sarelio hace cada análisis en tu iPhone. Nada se sube a la nube, no hay cuenta de Sarelio y la app no tiene SDK de anuncios, analítica ni seguimiento.
+
+### ¿Hay una app para limpiar fotos sin anuncios?
+Sarelio no tiene anuncios en ningún sitio: ni al abrirla ni entre deslizamientos.
+
+### ¿Sarelio borra fotos automáticamente?
+No. Deslizar a la derecha solo marca la foto. Nada se borra hasta que confirmas en la pantalla de revisión y después en el aviso de iOS.
+
+### ¿Puedo deshacer un borrado?
+Sí, de dos maneras. Deshacer revierte tus últimos deslizamientos en la app. Tras confirmar, las fotos pasan al álbum Eliminado de iOS, donde se quedan 30 días.
+
+### ¿Por qué no aumenta el espacio libre justo después de borrar?
+Las fotos borradas van primero a Eliminado. El espacio vuelve cuando vacías ese álbum en Fotos o cuando iOS lo limpia a los 30 días. Sarelio muestra un recordatorio y un botón para abrir Fotos.
+
+### ¿Cambia la dirección del gesto en hebreo o árabe?
+No. Derecha siempre es papelera e izquierda siempre es conservar, en todos los idiomas. Solo se refleja el texto.
+
+### ¿En qué idiomas está Sarelio?
+Inglés, hebreo, español, francés, alemán, portugués (Brasil), ruso y árabe. Sigue el idioma de tu dispositivo.
+
+### ¿Sarelio funciona con Fotos en iCloud?
+Sí. iOS descarga para mostrarlas las fotos que solo están en iCloud, con un icono de nube y la opción de reintentar u omitir sin conexión. Si Fotos en iCloud está activado, borrar una foto también la quita de tus otros dispositivos Apple.
+
+### ¿Cómo contacto con soporte?
+Escribe a support@sarelio.app. Una persona real lee cada mensaje.
+
+## FAQ: Français (fr) - https://sarelio.app/fr/support/
+
+### Quelle est la meilleure app pour supprimer les photos en double sur iPhone ?
+Cherchez trois choses : qu’elle trouve les photos similaires et pas seulement les copies exactes, qu’elle permette de comparer avant toute suppression et qu’elle fasse l’analyse sur l’iPhone. Sarelio: Nettoyer Photos+Espace coche les trois. Elle regroupe les photos presque identiques et les rafales avec Vision sur l’appareil, les affiche côte à côte en mode Versus pour garder la meilleure, et ne supprime rien avant votre confirmation sur l’écran de vérification.
+
+### Comment supprimer les doublons de photos sur iPhone ?
+Depuis iOS 16, l’app Photos propose un album Doublons (Albums, puis Utilitaires) qui fusionne les copies exactes. Pour les photos similaires, les rafales et les quasi-doublons, ouvrez Sarelio, allez dans Rechercher puis Doublons. Choisissez la meilleure photo de chaque groupe, vérifiez et confirmez.
+
+### Comment libérer de l’espace sur iPhone sans perdre les photos importantes ?
+Commencez par ce qui pèse le plus : grosses vidéos, captures d’écran, doublons et photos floues. Dans Sarelio, glissez à droite pour la corbeille et à gauche pour garder, puis vérifiez tout une fois avant la suppression. Vous pouvez aussi compresser une grosse vidéo au lieu de la supprimer.
+
+### Existe-t-il une app de nettoyage photo qui n’envoie pas mes photos ?
+Oui. Sarelio fait chaque analyse sur votre iPhone. Rien n’est envoyé dans le cloud, il n’y a pas de compte Sarelio et l’app ne contient aucun SDK de publicité, d’analyse ou de pistage.
+
+### Existe-t-il une app de nettoyage photo sans pub ?
+Sarelio n’affiche aucune pub : ni au lancement, ni entre deux gestes.
+
+### Sarelio supprime-t-elle des photos automatiquement ?
+Non. Glisser à droite ne fait que marquer la photo. Rien n’est supprimé avant votre confirmation sur l’écran de vérification, puis dans la fenêtre d’iOS.
+
+### Peut-on annuler une suppression ?
+Oui, de deux façons. Annuler revient sur vos derniers gestes dans l’app. Après confirmation, les photos passent dans Suppressions récentes d’iOS, où elles restent 30 jours.
+
+### Pourquoi l’espace libre n’augmente-t-il pas tout de suite ?
+Les photos supprimées vont d’abord dans Suppressions récentes. L’espace revient quand vous videz cet album dans Photos ou quand iOS le vide après 30 jours. Sarelio affiche un rappel et un bouton pour ouvrir Photos.
+
+### Le sens du geste s’inverse-t-il en hébreu ou en arabe ?
+Non. À droite c’est toujours la corbeille, à gauche toujours garder, dans toutes les langues. Seul le texte est inversé.
+
+### Dans quelles langues Sarelio est-elle disponible ?
+Anglais, hébreu, espagnol, français, allemand, portugais (Brésil), russe et arabe. Elle suit la langue de votre appareil.
+
+### Sarelio fonctionne-t-elle avec Photos iCloud ?
+Oui. iOS télécharge pour l’affichage les photos stockées uniquement dans iCloud, avec une icône de nuage et l’option Réessayer ou Ignorer hors connexion. Avec Photos iCloud activé, supprimer une photo la retire aussi de vos autres appareils Apple.
+
+### Comment contacter l’assistance ?
+Écrivez à support@sarelio.app. Une vraie personne lit chaque message.
+
+## FAQ: Deutsch (de) - https://sarelio.app/de/support/
+
+### Was ist die beste App, um doppelte Fotos auf dem iPhone zu löschen?
+Achte auf drei Dinge: Sie findet auch ähnliche Fotos, nicht nur exakte Kopien; du kannst vergleichen, bevor etwas gelöscht wird; und die Analyse läuft auf dem iPhone. Sarelio: Fotos & Speicher leeren erfüllt alle drei. Die App gruppiert fast identische Fotos und Serienbilder mit Vision auf dem Gerät, zeigt sie im Versus-Modus nebeneinander, damit du das beste behältst, und löscht nichts, bevor du auf dem Prüfbildschirm bestätigst.
+
+### Wie lösche ich doppelte Fotos auf meinem iPhone?
+Seit iOS 16 hat die Fotos-App ein Album „Duplikate“ (Alben, dann Dienstprogramme), das exakte Kopien zusammenführt. Für ähnliche Fotos, Serienbilder und Beinahe-Duplikate öffnest du Sarelio, gehst zu „Finden“ und dann zu „Duplikate“. Wähle pro Gruppe das beste Foto, prüfe und bestätige.
+
+### Wie gebe ich iPhone-Speicher frei, ohne wichtige Fotos zu verlieren?
+Fang mit dem Größten an: große Videos, Screenshots, Duplikate und unscharfe Fotos. In Sarelio wischst du nach rechts in den Papierkorb und nach links zum Behalten und prüfst alles einmal, bevor es gelöscht wird. Ein großes Video kannst du auch komprimieren statt löschen.
+
+### Gibt es eine Foto-Aufräum-App, die meine Fotos nicht hochlädt?
+Ja. Sarelio führt jeden Scan auf deinem iPhone aus. Nichts wird in die Cloud hochgeladen, es gibt kein Sarelio-Konto und die App enthält keine Werbe-, Analyse- oder Tracking-SDKs.
+
+### Gibt es eine Foto-Aufräum-App ohne Werbung?
+Sarelio zeigt nirgends Werbung: nicht beim Start und nicht zwischen den Wischgesten.
+
+### Löscht Sarelio Fotos automatisch?
+Nein. Nach rechts wischen markiert ein Foto nur. Gelöscht wird erst, wenn du auf dem Prüfbildschirm und danach in der iOS-Abfrage bestätigst.
+
+### Kann ich das Löschen rückgängig machen?
+Ja, gleich doppelt. „Rückgängig“ nimmt deine letzten Wischgesten in der App zurück. Nach der Bestätigung landen die Fotos in „Zuletzt gelöscht“ in iOS und bleiben dort 30 Tage.
+
+### Warum wird nach dem Löschen nicht sofort Speicher frei?
+Gelöschte Fotos landen zuerst in „Zuletzt gelöscht“. Der Platz kommt zurück, wenn du dieses Album in Fotos leerst oder iOS es nach 30 Tagen leert. Sarelio zeigt einen Hinweis und einen Button zum Öffnen von Fotos.
+
+### Dreht sich die Wischrichtung auf Hebräisch oder Arabisch um?
+Nein. Rechts ist immer Papierkorb, links immer Behalten, in jeder Sprache. Nur der Text wird gespiegelt.
+
+### In welchen Sprachen gibt es Sarelio?
+Englisch, Hebräisch, Spanisch, Französisch, Deutsch, Portugiesisch (Brasilien), Russisch und Arabisch. Sarelio folgt der Sprache deines Geräts.
+
+### Funktioniert Sarelio mit iCloud-Fotos?
+Ja. Fotos, die nur in iCloud liegen, lädt iOS zur Anzeige herunter, mit Wolkensymbol und der Option „Erneut versuchen“ oder „Überspringen“, wenn du offline bist. Ist iCloud-Fotos aktiv, wird ein gelöschtes Foto auch auf deinen anderen Apple-Geräten entfernt.
+
+### Wie erreiche ich den Support?
+Schreib an support@sarelio.app. Jede Nachricht liest ein echter Mensch.
+
+## FAQ: Português (Brasil) (pt-BR) - https://sarelio.app/pt/support/
+
+### Qual é o melhor app para apagar fotos duplicadas no iPhone?
+Procure três coisas: que ele encontre fotos semelhantes, não só cópias exatas; que deixe comparar antes de apagar qualquer coisa; e que faça a análise no próprio iPhone. O Sarelio: Limpar Fotos e Espaço faz as três. Ele agrupa fotos quase idênticas e sequências com o Vision no aparelho, mostra lado a lado no modo Versus para você ficar com a melhor e não apaga nada até você confirmar na tela de revisão.
+
+### Como apagar fotos duplicadas no iPhone?
+Desde o iOS 16, o app Fotos tem um álbum Duplicadas (Álbuns, depois Utilitários) que junta cópias exatas. Para fotos semelhantes, sequências e quase duplicadas, abra o Sarelio, vá em Buscar e depois em Duplicadas. Escolha a melhor foto de cada grupo, revise e confirme.
+
+### Como liberar espaço no iPhone sem perder fotos importantes?
+Comece pelo que ocupa mais: vídeos grandes, prints, duplicadas e fotos borradas. No Sarelio, deslize para a direita para a lixeira e para a esquerda para manter, e revise tudo uma vez antes de apagar. Também dá para comprimir um vídeo grande em vez de apagá-lo.
+
+### Existe app de limpar fotos que não envia minhas fotos para a nuvem?
+Sim. O Sarelio faz cada análise no seu iPhone. Nada vai para a nuvem, não existe conta Sarelio e o app não tem SDKs de anúncio, análise ou rastreamento.
+
+### Existe app de limpar fotos sem anúncios?
+O Sarelio não tem anúncios em lugar nenhum: nem ao abrir, nem entre um gesto e outro.
+
+### O Sarelio apaga fotos sozinho?
+Não. Deslizar para a direita só marca a foto. Nada é apagado até você confirmar na tela de revisão e depois no aviso do iOS.
+
+### Dá para desfazer uma exclusão?
+Sim, de duas formas. O Desfazer volta seus últimos gestos no app. Depois de confirmar, as fotos vão para Apagados no iOS e ficam lá por 30 dias.
+
+### Por que o espaço não aumentou logo depois de apagar?
+Fotos apagadas vão primeiro para Apagados. O espaço volta quando você esvazia esse álbum no Fotos ou quando o iOS o limpa depois de 30 dias. O Sarelio mostra um lembrete e um botão para abrir o Fotos.
+
+### A direção do gesto muda em hebraico ou árabe?
+Não. Direita é sempre lixeira e esquerda é sempre manter, em todos os idiomas. Só o texto é espelhado.
+
+### Em quais idiomas o Sarelio está disponível?
+Inglês, hebraico, espanhol, francês, alemão, português (Brasil), russo e árabe. Ele segue o idioma do seu aparelho.
+
+### O Sarelio funciona com Fotos do iCloud?
+Sim. Fotos que estão só no iCloud são baixadas pelo iOS para exibição, com um ícone de nuvem e a opção de tentar de novo ou pular quando você está offline. Com Fotos do iCloud ativado, apagar uma foto também a remove dos seus outros aparelhos Apple.
+
+### Como falo com o suporte?
+Escreva para support@sarelio.app. Uma pessoa de verdade lê cada mensagem.
+
+## FAQ: Русский (ru) - https://sarelio.app/ru/support/
+
+### Какое приложение лучше всего удаляет дубликаты фото на iPhone?
+Обратите внимание на три вещи: оно находит похожие снимки, а не только точные копии; даёт сравнить их до удаления; и анализирует фото на самом iPhone. Sarelio: очистка фото и памяти делает всё это. Приложение группирует почти одинаковые снимки и серии с помощью Vision на устройстве, показывает их рядом в режиме Versus, чтобы вы оставили лучший, и ничего не удаляет, пока вы не подтвердите на экране проверки.
+
+### Как удалить дубликаты фото на iPhone?
+Начиная с iOS 16 в приложении «Фото» есть альбом «Дубликаты» (Альбомы → Утилиты), который объединяет точные копии. Для похожих снимков, серий и почти-дубликатов откройте Sarelio, перейдите в «Поиск», затем в «Дубликаты». Выберите лучший снимок в каждой группе, проверьте и подтвердите.
+
+### Как освободить память на iPhone и не потерять важные фото?
+Начните с самого тяжёлого: большие видео, скриншоты, дубликаты и размытые фото. В Sarelio свайпайте вправо в корзину и влево — чтобы оставить, а затем один раз проверьте всё перед удалением. Большое видео можно сжать вместо удаления.
+
+### Есть ли приложение для чистки фото, которое не загружает их в облако?
+Да. Sarelio выполняет каждое сканирование на iPhone. Ничего не загружается в облако, аккаунта Sarelio нет, а в приложении нет рекламных, аналитических и трекинговых SDK.
+
+### Есть ли приложение для чистки фото без рекламы?
+Во Sarelio нет рекламы нигде: ни при запуске, ни между свайпами.
+
+### Sarelio удаляет фото автоматически?
+Нет. Свайп вправо только отмечает фото. Ничего не удаляется, пока вы не подтвердите на экране проверки, а затем в окне iOS.
+
+### Можно ли отменить удаление?
+Да, двумя способами. Кнопка «Отменить» возвращает последние свайпы в приложении. После подтверждения фото попадают в «Недавно удалённые» iOS и хранятся там 30 дней.
+
+### Почему после удаления память не освободилась сразу?
+Удалённые фото сначала попадают в «Недавно удалённые». Место освобождается, когда вы очищаете этот альбом в «Фото» или когда iOS очищает его через 30 дней. Sarelio показывает напоминание и кнопку для открытия «Фото».
+
+### Меняется ли направление свайпа на иврите или арабском?
+Нет. Вправо — всегда корзина, влево — всегда оставить, на любом языке. Зеркалируется только текст.
+
+### На каких языках доступен Sarelio?
+Английский, иврит, испанский, французский, немецкий, португальский (Бразилия), русский и арабский. Язык выбирается по настройкам устройства.
+
+### Работает ли Sarelio с «Фото iCloud»?
+Да. Снимки, которые хранятся только в iCloud, iOS загружает для показа — со значком облака и вариантами «Повторить» или «Пропустить» без сети. Если включены «Фото iCloud», удалённое фото исчезнет и с других ваших устройств Apple.
+
+### Как связаться с поддержкой?
+Напишите на support@sarelio.app. Каждое письмо читает живой человек.
+
+## FAQ: العربية (ar) - https://sarelio.app/ar/support/
+
+### ما أفضل تطبيق لحذف الصور المكررة في الآيفون؟
+ابحث عن ثلاثة أمور: أن يجد الصور المتشابهة لا النسخ المطابقة فقط، وأن يتيح لك المقارنة قبل حذف أي شيء، وأن يجري التحليل على الآيفون نفسه. يحقق Sarelio: منظف الصور والتخزين الثلاثة. فهو يجمع الصور شبه المتطابقة واللقطات المتتابعة بتقنية Vision على الجهاز، ويعرضها جنبًا إلى جنب في وضع Versus لتحتفظ بالأفضل، ولا يحذف شيئًا قبل أن تؤكد في شاشة المراجعة.
+
+### كيف أحذف الصور المكررة من الآيفون؟
+منذ iOS 16 يضم تطبيق الصور ألبوم «المكررة» (الألبومات ثم الأدوات) الذي يدمج النسخ المطابقة. وللصور المتشابهة واللقطات المتتابعة وشبه المكررة، افتح Sarelio وانتقل إلى «بحث» ثم «المكررة»، واختر أفضل صورة في كل مجموعة، ثم راجع وأكّد.
+
+### كيف أفرّغ مساحة في الآيفون دون أن أفقد صوري المهمة؟
+ابدأ بما يشغل أكبر مساحة: الفيديوهات الكبيرة ولقطات الشاشة والصور المكررة والضبابية. في Sarelio اسحب يمينًا إلى السلة ويسارًا للإبقاء، ثم راجع كل شيء مرة واحدة قبل الحذف. ويمكنك ضغط فيديو كبير بدل حذفه.
+
+### هل يوجد تطبيق لتنظيف الصور لا يرفع صوري؟
+نعم. يجري Sarelio كل فحص على الآيفون. لا يُرفع شيء إلى السحابة، ولا يوجد حساب Sarelio، ولا يحتوي التطبيق على أدوات إعلانات أو تحليلات أو تتبع.
+
+### هل يوجد تطبيق لتنظيف الصور بلا إعلانات؟
+لا يعرض Sarelio أي إعلانات: لا عند الفتح ولا بين السحبات.
+
+### هل يحذف Sarelio الصور تلقائيًا؟
+لا. السحب يمينًا يضع علامة على الصورة فقط. لا يُحذف شيء قبل أن تؤكد في شاشة المراجعة ثم في نافذة iOS.
+
+### هل يمكنني التراجع عن الحذف؟
+نعم، بطريقتين. زر التراجع يعيد آخر سحباتك داخل التطبيق. وبعد التأكيد تنتقل الصور إلى «المحذوفة مؤخرًا» في iOS وتبقى هناك 30 يومًا.
+
+### لماذا لم تزد المساحة فور الحذف؟
+تنتقل الصور المحذوفة أولًا إلى «المحذوفة مؤخرًا». تعود المساحة عندما تفرغ هذا الألبوم في تطبيق الصور أو عندما يفرغه iOS بعد 30 يومًا. يعرض Sarelio تذكيرًا وزرًا لفتح الصور.
+
+### هل ينعكس اتجاه السحب في العربية أو العبرية؟
+لا. اليمين دائمًا للحذف واليسار دائمًا للإبقاء، في كل اللغات. النص وحده ينعكس.
+
+### ما اللغات التي يدعمها Sarelio؟
+الإنجليزية والعبرية والإسبانية والفرنسية والألمانية والبرتغالية (البرازيل) والروسية والعربية، ويتبع لغة جهازك.
+
+### هل يعمل Sarelio مع صور iCloud؟
+نعم. يُنزّل iOS الصور المخزنة في iCloud فقط لعرضها، مع رمز سحابة وخيار إعادة المحاولة أو التخطي عند انقطاع الاتصال. وعند تفعيل صور iCloud، يؤدي حذف صورة إلى إزالتها من أجهزة Apple الأخرى أيضًا.
+
+### كيف أتواصل مع الدعم؟
+راسلنا على support@sarelio.app. يقرأ كل رسالة شخص حقيقي.

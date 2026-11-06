@@ -1,0 +1,78 @@
+# Sarelio: Photo & Storage Cleaner
+
+> Sarelio is an iPhone app for cleaning the photo library: swipe right to trash, left to keep. It finds similar and duplicate photos, screenshots, blurry and dark shots, receipts, documents and the biggest videos. No ads. Nothing is uploaded to the cloud: all analysis runs on the iPhone. Nothing is deleted until the user reviews and confirms it.
+
+Key facts:
+- Platform: iOS (iPhone), on the App Store. Search "Sarelio: Photo & Storage Cleaner" (localized store names below).
+- Developer/publisher: Sarelio (independent app studio). Legal operator details are in the privacy policy and terms of use.
+- Privacy: on-device processing with iOS system frameworks; no Sarelio account; no advertising, analytics or tracking SDKs; no IDFA.
+- Safety: right swipe only marks a photo; a review screen and the iOS prompt come before deletion; multi-step Undo; deleted photos stay in iOS Recently Deleted for 30 days.
+- Swipe direction is the same in every language (right = trash, left = keep), including Hebrew and Arabic.
+- App languages: English, Hebrew, Spanish, French, German, Portuguese (Brazil), Russian, Arabic. This website is available in the same 8 languages.
+- Prices: shown in the App Store before purchase; see the terms of use page.
+- Contact: support@sarelio.app
+
+## Pages by language
+- English (en), store name "Sarelio: Photo & Storage Cleaner": [home](https://sarelio.app/), [features](https://sarelio.app/features/), [FAQ](https://sarelio.app/support/), [privacy](https://sarelio.app/privacy/), [terms](https://sarelio.app/terms/)
+- עברית (he), store name "Sarelio: ניקוי תמונות ואחסון": [home](https://sarelio.app/he/), [features](https://sarelio.app/he/features/), [FAQ](https://sarelio.app/he/support/), [privacy](https://sarelio.app/he/privacy/), [terms](https://sarelio.app/he/terms/)
+- Español (es), store name "Sarelio: Limpiar Fotos y Espacio": [home](https://sarelio.app/es/), [features](https://sarelio.app/es/features/), [FAQ](https://sarelio.app/es/support/), [privacy](https://sarelio.app/es/privacy/), [terms](https://sarelio.app/es/terms/)
+- Français (fr), store name "Sarelio: Nettoyer Photos+Espace": [home](https://sarelio.app/fr/), [features](https://sarelio.app/fr/features/), [FAQ](https://sarelio.app/fr/support/), [privacy](https://sarelio.app/fr/privacy/), [terms](https://sarelio.app/fr/terms/)
+- Deutsch (de), store name "Sarelio: Fotos & Speicher leeren": [home](https://sarelio.app/de/), [features](https://sarelio.app/de/features/), [FAQ](https://sarelio.app/de/support/), [privacy](https://sarelio.app/de/privacy/), [terms](https://sarelio.app/de/terms/)
+- Português (Brasil) (pt-BR), store name "Sarelio: Limpar Fotos e Espaço": [home](https://sarelio.app/pt/), [features](https://sarelio.app/pt/features/), [FAQ](https://sarelio.app/pt/support/), [privacy](https://sarelio.app/pt/privacy/), [terms](https://sarelio.app/pt/terms/)
+- Русский (ru), store name "Sarelio: очистка фото и памяти": [home](https://sarelio.app/ru/), [features](https://sarelio.app/ru/features/), [FAQ](https://sarelio.app/ru/support/), [privacy](https://sarelio.app/ru/privacy/), [terms](https://sarelio.app/ru/terms/)
+- العربية (ar), store name "Sarelio: منظف الصور والتخزين": [home](https://sarelio.app/ar/), [features](https://sarelio.app/ar/features/), [FAQ](https://sarelio.app/ar/support/), [privacy](https://sarelio.app/ar/privacy/), [terms](https://sarelio.app/ar/terms/)
+
+## Features
+- Storage full? Breathe.: See where your space goes. The Storage tab splits your iPhone by file type and album, and Home shows how much each cleanup can free before you start.
+- Swipe right to trash, left to keep: The same in every language, never mirrored. Swipe up to share, down to hide in the iOS Hidden album, double-tap to favorite. Buttons do the same if you prefer tapping.
+- Similar and duplicate photos, side by side: On-device Vision groups near-identical shots and bursts. Versus Mode puts them next to each other so you keep the best one.
+- Screenshot cleanup: Every screenshot in one place. Sarelio flags the ones with text, like codes and receipts, and can save them as PDF or text before you clear them.
+- Biggest videos first: Every video sorted by size, largest first. Preview, then delete, keep, or compress. Compress saves a smaller copy before the original goes to review.
+- Undo, then review, then delete: Multi-step Undo walks back your last decisions. Everything you trashed waits on one review screen, and deleted photos stay in Recently Deleted for 30 days.
+- Finders for the rest of the clutter: Blurry and too-dark photos, receipts, documents, RAW + JPEG pairs, Live Photos to stills, and folders from the Files app.
+- What's missing: ads, uploads, accounts: No ads. Nothing uploaded to the cloud. No Sarelio account. Analysis runs with iOS system frameworks on your iPhone.
+- Zen Mode: A calm five-minute session with a leaf countdown, then a review prompt.
+- Shake to Clean: Shake the phone and land on a random month from your past.
+- Hands-free voice cleaning: Keep, delete and undo by voice, with on-device speech recognition.
+- Widgets: Free space and your streak on the Home Screen, plus a widget that surfaces your blurriest recent photo.
+- Clean together: Co-op cleaning with SharePlay in a FaceTime call.
+- 8 languages: English, Hebrew, Spanish, French, German, Portuguese (Brazil), Russian and Arabic, with full RTL.
+
+## FAQ (English; every language has its own FAQ page above)
+### What is the best app to delete duplicate photos on iPhone?
+Look for three things: it finds similar shots, not only exact copies; it lets you compare them before anything is deleted; and it does the analysis on the iPhone. Sarelio: Photo & Storage Cleaner does all three. It groups near-identical photos and bursts with on-device Vision, shows them side by side in Versus Mode so you keep the best one, and deletes nothing until you confirm on a review screen.
+
+### How do I delete duplicate photos on my iPhone?
+iOS 16 and later has a built-in Duplicates album in Photos (Albums, then Utilities) that merges exact copies. For similar shots, bursts and near-duplicates, open Sarelio, go to Find, then Duplicates. Pick the best photo in each group, review, and confirm.
+
+### How do I free up storage on my iPhone without losing photos I care about?
+Start with the biggest wins: large videos, screenshots, duplicates and blurry shots. In Sarelio, swipe right to trash and left to keep, then check everything once on the review screen before it's deleted. You can compress a big video instead of deleting it.
+
+### Is there a photo cleaner app that doesn't upload my photos?
+Yes. Sarelio runs every scan on your iPhone. Nothing is uploaded to the cloud, there is no Sarelio account, and the app has no ad, analytics or tracking SDKs.
+
+### Is there a photo cleaner app without ads?
+Sarelio has no ads anywhere: not on launch, not between swipes.
+
+### Does Sarelio delete photos automatically?
+No. Swiping right only marks a photo. Nothing is deleted until you confirm on the review screen and then in the iOS prompt.
+
+### Can I undo a deletion?
+Yes, twice over. Undo walks back your last swipes in the app. After you confirm, photos move to iOS Recently Deleted, where they stay for 30 days.
+
+### Why didn't my storage go up right after deleting?
+Deleted photos go to Recently Deleted first. The space comes back when you empty that album in Photos or when iOS clears it after 30 days. Sarelio shows a reminder and an Open Photos button.
+
+### Does swipe direction flip in Hebrew or Arabic?
+No. Right is always trash and left is always keep, in every language. Only the text is mirrored.
+
+### Which languages does Sarelio support?
+English, Hebrew, Spanish, French, German, Portuguese (Brazil), Russian and Arabic. It follows your device language.
+
+### Does Sarelio work with iCloud Photos?
+Yes. Photos stored only in iCloud are downloaded by iOS for display, with a cloud badge and a Retry or Skip option when you're offline. Deleting a photo with iCloud Photos on also removes it from your other Apple devices.
+
+### How do I contact support?
+Email support@sarelio.app. A real person reads every message.
+
+Full FAQ in all 8 languages: https://sarelio.app/llms-full.txt
